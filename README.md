@@ -13,7 +13,7 @@
   <hr />
   <h3><a href="./public/movie-ranking.html">Movie Ranking Project</a></h3>
   <img src="./assets/images/movie-ranking.png" height="200" alt="movie ranking project preview"/>
-  <hr
+  <hr/>
   <h3><a href="./public/birthday-invite.html">Birthday Invite Project</a></h3>
   <img src="./assets/images/birthday-invite.png" height="200" alt="birthday invite project preview"/>
   <hr />
